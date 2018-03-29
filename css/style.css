@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Cantata+One|Rozha+One');
+
+.back {
+    background-color: black;
+
+}
+
+.back_1 {
+    background-image: url("../img/world_1.jpg");
+
+}
+
+.back_1 .container {
+    background-color: white;
+}
+
+
+
+.container-fluid {
+    background-color: #1d1d1d;
+    height: 65px;
+}
+
+
+
+
+.fon {
+    background-image: url("../img/head.jpg");
+    height: 400px;
+    background-size: 1170px auto;
+    position: relative;
+}
+
+.namesite {
+    font-size: 30px;
+    margin-bottom: -10px;
+    font-family: Cantata;
+}
+
+.head {
+    padding-left: 0;
+    padding-right: 0;
+    color: white;
+    margin-top: 5px;
+
+}
+
+.head span {
+    color:#b1b1b1;
+
+}
+.head_1 {
+    padding-left: 0;
+    padding-right: 0;
+    position: relative;
+}
+
+#exampleInputName2 {
+    background-color: #555555;
+    border-radius: 0;
+    color: white;
+    width: 400px;
+}
+
+
+
+.form-inline {
+   position: absolute;
+   right: 0px;
+   top: 15px;
+
+
+}
+
+.form-inline button {
+     border-radius: 0;
+     background-color: #000000;
+     color: white;
+
+}
+.form-control {
+    height: 34px;
+
+}
+
+.head_2 {
+    padding-left: 0;
+    padding-right: 0;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+
+    color: white;
+}
+
+.down {
+  padding: 15px 0 15px 20px;
+
+
+}
+
+.down p {
+    margin-bottom: 0;
+
+}
+
+
+
+.buttom_1 {
+
+    border-radius: 0;
+    background-color: #000000;
+    color: white;
+    margin-left: 5px;
+
+}
+
+.head_3 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.buttom_1 a {
+    border-radius: 0;
+    background-color: #000000;
+    color: white;
+    margin-left: -5px;
+}
+
+.photo img {
+    border: 15px solid #e2e2e2;
+    margin-top: 2px;
+}
+
+.photo_1 {
+    width: 300px;
+
+}
+ .text blockquote {
+     margin-bottom: 0;
+     border-left: 0;
+
+ }
+
+thead {
+    background-color: #efefef;
+
+}
+
+
+.lists {
+
+    width: 100%;
+}
+
+.lists_1 {
+    float: left;
+
+}
+
+.black {
+    border-radius: 0;
+    background-color: #000000;
+    color: white;
+
+}
+
+h1:first-letter {
+    color: black;
+
+}
+
+h1 strong {
+ color: #838383;
+
+}
+
